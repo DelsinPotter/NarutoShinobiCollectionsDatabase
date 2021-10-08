@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157137475816",
+    "project_id": "shinobicollections",
+    "storage_bucket": "shinobicollections.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157137475816:android:d551308ff05f093e17d15d",
+        "android_client_info": {
+          "package_name": "com.example.bucchigirimain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157137475816-nf001d9s3of6ov5hcq535ockispore59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzKbsl9C2kb7lCz6gPpPcJIVu08HO8K8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157137475816-nf001d9s3of6ov5hcq535ockispore59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
